@@ -1,1 +1,1 @@
-Hii so this is an html aes encryption repo ment for use on pringvin to encrypt assets via aes locally
+Hii so this is an html aes encryption repo for use on pringvin to encrypt/decrypt assets via aes locally on your system, files of any type are supported, outputting as .BIN along with a decryption key to decrypt .bin
